@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Application Security Enginer. Acknowledged by Google, Apple, Microsoft, Oracle, Xiaomi, Intel, Dutch-Goverment and many more big giants for finding & providing solutions to fix critical vulnerabilities in their assets.
